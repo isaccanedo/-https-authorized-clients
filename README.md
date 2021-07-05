@@ -137,7 +137,7 @@ Se tudo correr bem, não funcionará mais. Apenas como verificação de integrid
 
 Da mesma forma, se tudo estiver bem, o cliente 1 ainda funciona enquanto o cliente 2 é rejeitado.
 
-Conclusion
+Conclusão
 ==========
 
 Vimos como podemos criar certificados de cliente e servidor autoassinados e garantir que os clientes que interagem com nosso servidor usem apenas certificados válidos assinados por nós. Além disso, podemos revogar qualquer um dos certificados do cliente sem ter que revogar tudo e reconstruir do zero.
